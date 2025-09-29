@@ -9,6 +9,9 @@ Ao final retornar o valor para o usuário
 - pip install taskiq
 - pip install sqlalchemy
 - pip install pydantic
+- pip install pydantic-settings
 - pip install fastapi
 - pip install uvicorn
-- pip install httpx
+- pip install aiosqlite
+- pip install taskiq-aio-pika
+- pip install taskiq-redis
