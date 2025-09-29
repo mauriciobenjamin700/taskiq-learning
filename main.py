@@ -1,6 +1,4 @@
-def main():
-    print("Hello from taskiq-learning!")
+from src import start_server
 
 
-if __name__ == "__main__":
-    main()
+start_server()
